@@ -292,39 +292,39 @@
 }
 
 .rock {
-  background-image: url(rock.svg);
+  background-image: url("http://hannahch.com/images/rock.svg");
 }
 
 .paper {
-  background-image: url("https://hannahch.com/images/paper.svg");
+  background-image: url("http://hannahch.com/images/paper.svg");
 }
 
 .scissors {
-  background-image: url("https://hannahch.com/images/scissors.svg");
+  background-image: url("http://hannahch.com/images/scissors.svg");
 }
 
 .character1 {
-  background-image: url("https://hannahch.com/images/character1.svg");
+  background-image: url("http://hannahch.com/images/character1.svg");
 }
 
 .character2 {
-  background-image: url("https://hannahch.com/images/character2.svg");
+  background-image: url("http://hannahch.com/images/character2.svg");
 }
 
 .character3 {
-  background-image: url("https://hannahch.com/images/character3.svg");
+  background-image: url("http://hannahch.com/images/character3.svg");
 }
 
 .robot1 {
-  background-image: url("https://hannahch.com/images/robot1.svg");
+  background-image: url("http://hannahch.com/images/robot1.svg");
 }
 
 .robot2 {
-  background-image: url("https://hannahch.com/images/robot2.svg");
+  background-image: url("http://hannahch.com/images/robot2.svg");
 }
 
 .robot3 {
-  background-image: url("https://hannahch.com/images/robot3.svg");
+  background-image: url("http://hannahch.com/images/robot3.svg");
 }
 
 /*==========================================
