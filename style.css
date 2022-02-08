@@ -304,27 +304,27 @@
 }
 
 .character1 {
-  background-image: url("http://hannahch.com/images/character1.svg");
+  background-image: url(character1.jpg);
 }
 
 .character2 {
-  background-image: url("http://hannahch.com/images/character2.svg");
+  background-image: url(character2.jpg);
 }
 
 .character3 {
-  background-image: url("http://hannahch.com/images/character3.svg");
+  background-image: url(character3.jpg);
 }
 
 .robot1 {
-  background-image: url("http://hannahch.com/images/robot1.svg");
+  background-image: url(robot1.jpg);
 }
 
 .robot2 {
-  background-image: url("http://hannahch.com/images/robot2.svg");
+  background-image: url(robot2.jpg);
 }
 
 .robot3 {
-  background-image: url("http://hannahch.com/images/robot3.svg");
+  background-image: url(robot3.jpg);
 }
 
 /*==========================================
