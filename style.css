@@ -292,15 +292,15 @@
 }
 
 .rock {
-  background-image: url("//hannahch.com/images/rock.svg");
+  background-image: url(rock.jpg);
 }
 
 .paper {
-  background-image: url("http://hannahch.com/images/paper.svg");
+  background-image: url(paper.jpg);
 }
 
 .scissors {
-  background-image: url("http://hannahch.com/images/scissors.svg");
+  background-image: url(scissors.jpg);
 }
 
 .character1 {
